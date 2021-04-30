@@ -1,0 +1,30 @@
+body {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 15px 10px;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    padding-left: 15px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    opacity: 0.75;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
