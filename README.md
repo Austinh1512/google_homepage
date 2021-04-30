@@ -1,0 +1,1 @@
+A simple recreation of the basic Google homepage using basic vanilla HTML and CSS. Project from The Odin Project.
